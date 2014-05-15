@@ -1,0 +1,18 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    libxml-ruby (2.7.0)
+    mini_portile (0.5.3)
+    multi_xml (0.5.5)
+    nokogiri (1.6.1)
+      mini_portile (~> 0.5.0)
+    ox (2.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  libxml-ruby
+  multi_xml
+  nokogiri
+  ox
